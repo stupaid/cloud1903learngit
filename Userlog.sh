@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 #
-
+# author: mengjian
+# email: mjworkmail@163.com
+#
 read -p "Username:" username
 read -p "Passwd:" passwd
 if [ $username == 'opera' ];then
