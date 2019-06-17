@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 #
+# author: mengjian
+# email: mjworkmail@163.com
 netip='10.0.111'
 for i in `seq 2 254`
 do 
