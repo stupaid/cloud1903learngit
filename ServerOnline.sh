@@ -2,6 +2,8 @@
 #
 # author: mengjian
 # email: mjworkmail@163.com
+# date: 2019/06/17
+# web : http://github.com/stupaid
 netip='10.0.111'
 for i in `seq 2 254`
 do 
