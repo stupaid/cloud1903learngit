@@ -9,4 +9,6 @@ if [ $username == 'opera' ];then
 	else
 		echo 'your passwd false!'
 	fi
+else
+	echo '你真是个大沙雕！'
 fi
